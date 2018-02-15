@@ -1,2 +1,2 @@
 # pyplot_tutorial
-study pyplot with pyplot tutorial
+study along with https://matplotlib.org/users/pyplot_tutorial.html
